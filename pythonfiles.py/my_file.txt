@@ -1,0 +1,6 @@
+This is line 1.
+12345
+Hello, world!
+This is line 4 (appended).
+54321 (appended)
+Goodbye, world! (appended)
